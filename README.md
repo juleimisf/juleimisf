@@ -3,12 +3,13 @@
 I’m interested in [Android Developer](https://developer.android.com) 💻, good practices, [Kotlin](https://kotlinlang.org/) and Architecture.
 
 # What i'm up to
-- 🔭 I’m currently working[@Accenture](https://www.accenture.com/cl-es).
+- 🔭 I’m currently working[@Accenture](https://www.accenture.com/cl-es).   <img src="https://github.com/juleimisf/juleimisf/blob/main/image.png" alt="nodejs" width="265" height="320"/>
+
 - 🌱 I’m currently working with [kotlin](https://kotlinlang.org/).
 - 💬 Creating content in my blog, Twitch and YouTube.
 
-## Languages and Tools. <p align="right"><img src="https://github.com/juleimisf/juleimisf/blob/main/image.png" alt="nodejs" width="265" height="265"/> </a>
-</p>
+ 
+ ## Languages and Tools
  
  <p align="left"> 
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="65" height="65"/> </a>
@@ -16,7 +17,8 @@ I’m interested in [Android Developer](https://developer.android.com) 💻, goo
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="git" width="65" height="65"/>  </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="git" width="65" height="65"/>  </a>
-  </p>
+</p>
+
   
 
   
