@@ -1,6 +1,8 @@
 # 👋 Hello world, I’m juleimis!
 
 I’m interested in [Android Developer](https://developer.android.com) 💻, good practices, [Kotlin](https://kotlinlang.org/) and Architecture.
+
+Follow me to share content  <a href="https://firebase.google.com/" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg](https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-icon.svg)" alt="firebase" width="35" height="35"/> </a>
 <br/>
 <br/>
 
