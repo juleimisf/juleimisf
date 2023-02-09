@@ -2,7 +2,7 @@
 
 I’m interested in [Android Developer](https://developer.android.com) 💻, good practices, [Kotlin](https://kotlinlang.org/) and Architecture.
 
-Follow me to share content  <a href="[https://firebase.google.com/](https://www.linkedin.com/in/juleimis-abache/)" target="_blank"> <img src="[https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg](https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-icon.svg)" alt="linkedin" width="35" height="35"/> </a>
+Follow me to share content  <a href="https://www.linkedin.com/in/juleimis-abache/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="25" height="25"/> </a>
 <br/>
 <br/>
 
