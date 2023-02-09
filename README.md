@@ -7,7 +7,7 @@ I’m interested in [Android Developer](https://developer.android.com) 💻, goo
 - 🌱 I’m currently working with [kotlin](https://kotlinlang.org/).
 - 💬 Creating content in my blog, Twitch and YouTube.
 
-## Languages and Tools. <p align="right"><img src="https://github.com/juleimisf/juleimisf/blob/main/image.png" alt="nodejs" width="165" height="165"/> </a>
+## Languages and Tools. <p align="right"><img src="https://github.com/juleimisf/juleimisf/blob/main/image.png" alt="nodejs" width="265" height="265"/> </a>
 </p>
  
  <p align="left"> 
