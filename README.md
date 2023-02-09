@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @juleimisf
-- 👀 I’m interested in android developer, good practices, kotlin and architecture.
-- 🌱 I’m currently learning Clean architecture.
+## 👋 Hello world, I’m juleimis!
+
+I’m interested in [android developer](https://developer.android.com), good practices, [kotlin](https://kotlinlang.org/) and architecture.
+
+<img width="280" alt="Screen Shot 2023-02-08 at 23 18 25" src="https://user-images.githubusercontent.com/16981896/217700216-1cc57fa5-dd6e-484c-a97c-c63f0b707907.png">
 
 <!---
 juleimisf/juleimisf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
