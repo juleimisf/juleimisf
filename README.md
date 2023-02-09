@@ -13,8 +13,6 @@ Follow me to share content  <a href="https://www.linkedin.com/in/juleimis-abache
 
 <br/>
 
-<br/>
-
 <img align="right" alt="GIF" src="./image.png" width="240px" />
 
 <br />
