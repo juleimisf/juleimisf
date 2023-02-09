@@ -1,4 +1,4 @@
-# 👋 Hello world, I’m juleimis!
+# 👋 Hello world, I’m Juleimis!
 
 I’m interested in [Android Developer](https://developer.android.com) 💻, good practices, [Kotlin](https://kotlinlang.org/) and Architecture.
 
