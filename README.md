@@ -1,6 +1,6 @@
 ## 👋 Hello world, I’m juleimis!
 
-I’m interested in [android developer](https://developer.android.com), good practices, [kotlin](https://kotlinlang.org/) and architecture.
+I’m interested in [android developer](https://developer.android.com) 💻, good practices, [kotlin](https://kotlinlang.org/) and architecture.
 
 ## What i'm up to
 - 🔭 I’m currently working[@Accenture](https://www.accenture.com/cl-es).
