@@ -2,11 +2,24 @@
 
 I’m interested in [Android Developer](https://developer.android.com) 💻, good practices, [Kotlin](https://kotlinlang.org/) and Architecture.
 
-# What i'm up to
-- 🔭 I’m currently working[@Accenture](https://www.accenture.com/cl-es).   <img src="https://github.com/juleimisf/juleimisf/blob/main/image.png" alt="nodejs" width="265" height="320"/>
 
-- 🌱 I’m currently working with [kotlin](https://kotlinlang.org/).
-- 💬 Creating content in my blog, Twitch and YouTube.
+
+<br />
+
+<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
+
+<br />
+
+
+ # What i'm up to
+- 🔭 I’m currently working[@Accenture](https://www.accenture.com/cl-es).      | have spots    |
+ - 🌱 I’m currently working with [kotlin](https://kotlinlang.org/).  
+
+
+
+
+
+
 
  
  ## Languages and Tools
