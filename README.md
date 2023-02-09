@@ -1,30 +1,21 @@
 # 👋 Hello world, I’m juleimis!
 
 I’m interested in [Android Developer](https://developer.android.com) 💻, good practices, [Kotlin](https://kotlinlang.org/) and Architecture.
+<br/>
+<br/>
 
-
-
-<br />
-
-<img align="right" alt="GIF" src="./assets/banner.jpg" width="240px" />
+<img align="right" alt="GIF" src="./image.png" width="240px" />
 
 <br />
-
 
  # What i'm up to
-- 🔭 I’m currently working[@Accenture](https://www.accenture.com/cl-es).      | have spots    |
+- 🔭 I’m currently working[@Accenture](https://www.accenture.com/cl-es).
  - 🌱 I’m currently working with [kotlin](https://kotlinlang.org/).  
 
+<br />
 
-
-
-
-
-
- 
  ## Languages and Tools
  
- <p align="left"> 
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="65" height="65"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
