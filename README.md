@@ -13,8 +13,9 @@ I’m interested in [Android Developer](https://developer.android.com) 💻, goo
 
 
                                                                       
-                                                                      
- <img width="280" alt="Screen Shot 2023-02-08 at 23 18 25" src="https://user-images.githubusercontent.com/16981896/217700216-1cc57fa5-dd6e-484c-a97c-c63f0b707907.png">
+<p align="right">                                                                 
+<img width="552" alt="Screen Shot 2023-02-08 at 23 43 07" src="https://user-images.githubusercontent.com/16981896/217704166-f9f7d2bd-5a45-4824-8b38-5643d55b6cf4.png">
+
 
 <!---
 juleimisf/juleimisf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
