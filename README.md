@@ -20,7 +20,8 @@ Follow me to share content  <a href="https://www.linkedin.com/in/juleimis-abache
  # What i'm up to
 - 🔭 I’m currently working[@Accenture](https://www.accenture.com/cl-es).
  - 🚀 I’m currently working with [kotlin](https://kotlinlang.org/).
- - 🧱 I'm creating a comprehensive repository of programming design patterns, with detailed explanations and Kotlin code examples, class diagrams, and additional resources to help other developers understand and apply these patterns in their projects. This repository will be a valuable resource for anyone interested in enhancing their software design knowledge and skills. Stay tuned for updates!  
+ - 📚 I'm currently diving deep into the world of Clean Code.
+ - 🧱 I'm creating a comprehensive repository of programming design patterns.
 
 <br />
 
