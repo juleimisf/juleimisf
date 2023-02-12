@@ -35,7 +35,7 @@ Follow me to share content  <a href="https://www.linkedin.com/in/juleimis-abache
 <br/>
 <br/>
 
-## I like to learn constantly 🚀🚀
+## I like to learn constantly 🚀
 #### Certifications
  <a href="https://www.credly.com/badges/cf8c7e05-c5da-4a02-be4d-9a9eeaa6a994?source=linked_in_profile" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="amazon" width="65" height="65"/> </a>
  </p>
