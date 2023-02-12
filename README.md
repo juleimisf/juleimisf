@@ -11,8 +11,6 @@ I am an Android developer with a passion for creating intuitive and efficient ap
 
 Follow me to share content  <a href="https://www.linkedin.com/in/juleimis-abache/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="25" height="25"/> </a>
 
-<br/>
-
 <img align="right" alt="GIF" src="./image.png" width="240px" />
 
 <br />
